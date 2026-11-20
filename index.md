@@ -23,6 +23,14 @@ LLM agent systems, inference reliability, and formal analysis of learning-based 
 - **University of Sussex**, United Kingdom — MSc Robotics and Autonomous Systems, September 2025 to January 2027 (expected). Current average 70+ on the UK marking scale (Distinction expected).
 - **Zhejiang University of Technology**, China — BSc Applied Physics, 2020 to 2025.
 
+## Research proposals
+
+Three proposals, each asking one question that can be answered by an experiment:
+
+- [Transferring Reasoning at Aligned Capacity](assets/rp-aligned-capacity.pdf) — what actually crosses a distillation boundary when architecture, parameter count and tokenizer are held fixed and only post-training differs.
+- [One Transfer, Then the Map](assets/rp-one-transfer.pdf) — a certified decomposition of direction from gain, carried through a chain of single-assumption relaxations instead of one end-to-end run.
+- [Not Alone from Token One](assets/rp-copresence.pdf) — whether other-agent presence has to be part of LLM pretraining for collaboration to survive contact with partners.
+
 ## Selected work
 
 - MSc dissertation: markerless 3D tracking, combining deep-learning detection with particle filtering for robot end-effector tracking; 68 SurgPose runs, seven-keypoint median 3D error 5.0 mm.
